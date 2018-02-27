@@ -14,4 +14,4 @@ print(list_of_results)
 
 
 
-#whast up
+#what's up
