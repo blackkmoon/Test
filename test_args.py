@@ -13,5 +13,4 @@ for i, j in zip(range(3), range(3)):
 print(list_of_results)
 
 
-
-#what's up
+# what's up
