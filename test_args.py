@@ -6,7 +6,7 @@ def add(a, b):
 
 
 def subs(a, b):
-    return a - b
+    return a - b - a
 
 
 f = {'a': add}
